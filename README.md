@@ -3,7 +3,7 @@ Basic C Library
 
 ## Getting Started
 
-This is a rewrite of the most usefull function in lib c
+This is a rewrite of the most usefull functions in lib c
 
 ### Setup
 
@@ -28,6 +28,6 @@ Compile your project with the Library
 
 ### Documentation
 
-To show wich fonction contain this library check this link:
+To show wich fonctions contain this library check this link:
 
-[embed]https://cdn.intra.42.fr/pdf/pdf/1330/libft.en.pdf[embed]
+[embed]https://cdn.intra.42.fr/pdf/pdf/1330/libft.en.pdf[/embed]
