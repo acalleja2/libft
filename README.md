@@ -1,5 +1,8 @@
 # libft
 Basic C Librairy
 
-# Getting Started
+## Getting Started
 
+### Setup
+
+`cd ./your_project`
