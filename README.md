@@ -30,4 +30,4 @@ Compile your project with the Library
 
 To show wich fonctions contain this library check this link:
 
-[embed]https://cdn.intra.42.fr/pdf/pdf/1330/libft.en.pdf[/embed]
+[embed]https://cdn.intra.42.fr/pdf/pdf/1330/libft.en.pdf[\embed]
